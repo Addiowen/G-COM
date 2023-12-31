@@ -1,0 +1,19 @@
+{
+  "name": "g-com",
+  "version": "1.0.0",
+  "description": "E-commerce web app for game equipments",
+  "main": "app.js",
+  "scripts": {
+    "serve": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "owen labs",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
